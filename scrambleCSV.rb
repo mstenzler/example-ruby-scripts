@@ -44,6 +44,6 @@ end
 file_in.close
 file_out.close
 
-puts "write #{num_lines} lines"
+puts "wrote #{num_lines} lines"
 
 exit(0)
