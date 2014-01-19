@@ -6,7 +6,7 @@
 filename = ARGV[0]
 
 unless filename
-  p "usage #{$0} <Name of file to parse> <Name of output file>"
+  p "usage #{$0} <Name of input file> <Name of output file>"
   exit(0)
 end
 
